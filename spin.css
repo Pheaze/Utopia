@@ -24,9 +24,8 @@ body::before {
     transform: translateX(-50%);
     content: '';
     background-image: url(images/bg.png);
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: top center;
     pointer-events: none;
 }
  
